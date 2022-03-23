@@ -18,8 +18,8 @@
 
 # Aproch to solve-:
 
-* Using Matrial UI to avoid CSS and make the UI intractive.
-* Using react to make UI very easy and Intractive.
+* Using Matrial UI to avoid CSS and make the UI interactive.
+* Using react to make UI very easy and interactive.
 * Fetch the API
 * Creating image folder and call form there ImageId
 * Fetch there name , value , team , date  from API and display it.
